@@ -11,7 +11,7 @@ v.organization = '';
 v.cellPhone = '010-7410-0030';
 v.email = '072hanvy@gmail.com';
 v.url = 'https://www.linkedin.com/in/hanbi-kwon/';
-v.note = 'VCF를 통해 추가된 연락처입니다.';
+v.note = '';
 
 // 줄바꿈을 CRLF로 통일 (BOM 넣지 않음: Android 호환성↑)
 const body = v.getFormattedString().replace(/\r?\n/g, '\r\n');
