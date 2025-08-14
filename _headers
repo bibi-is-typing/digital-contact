@@ -1,4 +1,4 @@
 /hanbi.vcf
-  Content-Type: text/x-vcard; charset=utf-8
+  Content-Type: text/vcard; charset=utf-8
   Content-Disposition: inline; filename="hanbi.vcf"
-  Cache-Control: public, max-age=31536000, immutable
+  Cache-Control: public, max-age=0, must-revalidate
