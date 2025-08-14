@@ -1,10 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:권한비(BIBI)
-N;CHARSET=UTF-8:권;한비;;;
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:072hanvy@gmail.com
-TEL;TYPE=CELL:010-7410-0030
-URL;CHARSET=UTF-8:https://www.linkedin.com/in/hanbi-kwon/
-NOTE;CHARSET=UTF-8:VCF를 통해 추가된 연락처입니다.
-REV:2025-08-14T13:11:04.869Z
+N:권;한비;;;
+FN:권한비(BIBI)
+ORG:
+TITLE:
+TEL;TYPE=WORK,VOICE:010-7410-0030
+EMAIL;TYPE=INTERNET,PREF:072hanvy@gmail.com
+URL:https://www.linkedin.com/in/hanbi-kwon/
+NOTE:파이콘에서 만나 추가된 연락처입니다.
 END:VCARD
